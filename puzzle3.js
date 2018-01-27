@@ -1,16 +1,13 @@
+down();
+down();
+var A= getColor();
+down();
+down();
+down();
 right();
-down();
-down();
-down();
-down();
-down();
-down();
+right();
+setColor(A);
 right();
 right();
 up();
-up();
-right();
-right();
-down();
-down();
-down();
+
