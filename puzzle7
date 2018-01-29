@@ -1,1 +1,22 @@
 
+while (getColor() != "red") {
+  down();}
+function a () {
+  if (getColor () == "red") 
+  {right ();
+   right();
+  }}
+a();
+
+while (getColor() != "red") {
+  up();}
+a();
+while (getColor() != "red") {
+  down();}
+a();
+while (getColor() != "red") {
+  up();}
+a();
+while (getColor() != "red") {
+  down();}
+a();
